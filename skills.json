@@ -1,0 +1,9 @@
+{
+	"skill1": ["GitBash", "GitHub"],
+	"TerminalCommands": ["cp", "mv", "mkdir", "touch", "cat", "grep"],
+	"skill2": ["JSON", "XML"],
+	"DevTools": ["Google Chrome", "FireFox"],
+	"SniffingMobileTraffic": ["Charles", "Fiddler"],
+	"BasicSQL" : ["Create", "Delete", "Drop", "Insert Into", "Select", "Where", "Join"
+	]
+}
